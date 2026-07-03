@@ -1,0 +1,7 @@
+Es fundamental que las plataformas tecnológicas reciban reportes ciudadanos de forma estructurada porque el formato JSON permite procesar, clasificar y almacenar la información de manera automatizada. 
+Cuando los datos llegan organizados por campos específicos como el tipo de incidencia y la descripción, los sistemas pueden priorizar las alertas según su gravedad sin necesidad de intervención manual. 
+Esto optimiza drásticamente los tiempos de respuesta de los equipos técnicos o comunitarios encargados de resolver las problemáticas en los barrios. 
+Además, la información estructurada facilita la creación de estadísticas, gráficos y mapas de calor que ayudan a identificar qué zonas sufren fallas repetitivas. 
+Si los reportes se enviaran como texto libre desordenado, se perdería mucho tiempo interpretando cada mensaje individual, lo que retrasaría la ayuda. 
+En conclusión, el uso de JSON en herramientas de participación ciudadana garantiza una gestión transparente, eficiente y escalable para mejorar el bienestar colectivo.
+

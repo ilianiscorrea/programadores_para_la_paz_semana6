@@ -1,0 +1,1 @@
+Al enviar una petición POST a la ruta http://localhost:3000/registro con el JSON de María, el servidor procesa los datos mediante 'req.body' gracias al middleware 'express.json()'. Como respuesta, el servidor devuelve un objeto JSON que confirma la recepción con el estado "Datos recibidos" y replica exactamente el nombre y el mensaje enviados por el cliente.
